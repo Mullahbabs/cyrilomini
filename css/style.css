@@ -605,7 +605,7 @@ a:hover {
   position: center;
   color: #fff;
   align-items: center;
-  z-index: ;
+  z-index: 1;
 }
 
 .intro .intro-content {
@@ -622,7 +622,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  z-index: ;
+  
   
 }
 
