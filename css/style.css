@@ -420,7 +420,7 @@ a:hover {
 
 .navbar-b.navbar-trans .nav-link,
 .navbar-b.navbar-reduce .nav-link {
-  color: #fff;
+  color: #f28b00;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -459,7 +459,7 @@ a:hover {
 }
 
 .navbar-b.navbar-trans .nav-link:before {
-  background-color: #fff;
+  background-color: #0078ff;
 }
 
 .navbar-b.navbar-trans .nav-link:hover {
@@ -475,7 +475,7 @@ a:hover {
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #fff;
+  background-color: #1B263B;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -500,7 +500,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #0078ff;
+  color: #f28b00;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -508,7 +508,7 @@ a:hover {
 }
 
 .navbar-b .navbar-brand {
-  color: #fff;
+  color: #0078ff;
   font-size: 1.6rem;
   font-weight: 600;
 }
